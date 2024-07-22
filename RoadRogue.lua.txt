@@ -701,7 +701,7 @@ function Reanimate()
 	Emperean.Start({
 		Accessories = {
 			--  Free Rig
-			{ Blacklist = true, Name = "Torso", AlternativeName = "UpperTorso", MeshId = "14184326142", TextureId = "14184326210", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, -0.25), AlternativeCFrame = CFrameidentity },
+			{ Blacklist = true, Name = "Torso", AlternativeName = "UpperTorso", MeshId = "14184326142", TextureId = "14184326210", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
 			{ Blacklist = true, Name = "Right Arm", AlternativeName = "RightLowerArm", MeshId = "11449388499", TextureId = "11439439606", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(-0.095, 0, 0) * CFrameAngles(- 2, 0, 0), AlternativeCFrame = CFrameidentity },
 			{ Blacklist = true, Name = "Left Arm", AlternativeName = "LeftLowerArm", MeshId = "11449386931", TextureId = "11439439606", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0.095, 0, 0) * CFrameAngles(- 2, 0, 0), AlternativeCFrame = CFrameidentity },
 			{ Blacklist = true, Name = "Right Leg", AlternativeName = "RightLowerLeg", MeshId = "9867442567", TextureId = "9867451480", AllowAlternativeCFrame = false, CoordinateFrame = CFrameAngles(1.57, - 1.57, 0), AlternativeCFrame = CFrameidentity },
