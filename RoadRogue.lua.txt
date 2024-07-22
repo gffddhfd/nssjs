@@ -728,7 +728,7 @@ function Reanimate()
 			{ Blacklist = true, Name = "Uzi", AlternativeName = "Rifle", MeshId = "5548423017", TextureId = "5548423938", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0.15, 0.55) * CFrameAngles(1.45, -3.15, -3.15), AlternativeCFrame = CFrameidentity },
 			{ Blacklist = true, Name = "Bazooka", AlternativeName = "Rifle", MeshId = "14890477660", TextureId = "14890158533", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0, 0) * CFrameAngles(0, 1.45, -0.75), AlternativeCFrame = CFrameidentity },
 			{ Blacklist = true, Name = "Bullet", AlternativeName = "Bullet", MeshId = "9671297232", TextureId = "9671297276", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, 0.15, 0.55) * CFrameAngles(1.45, -3.15, -3.15), AlternativeCFrame = CFrameidentity },
-			{ Blacklist = true, Name = "Motor", AlternativeName = "Motorcycle", MeshId = "9734870071", TextureId = "9734897642", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(0, -0.15, 0.55) * CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
+			{ Blacklist = true, Name = "Motor", AlternativeName = "Motorcycle", MeshId = "9734870071", TextureId = "9734897642", AllowAlternativeCFrame = false, CoordinateFrame = CFramenew(180, -0.15, 0.55) * CFrameAngles(0, 0, 0), AlternativeCFrame = CFrameidentity },
 
 		},
 		Rig = {
